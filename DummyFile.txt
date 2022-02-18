@@ -1,3 +1,5 @@
 This is a dummy file to test GIT operations.
 
 This line is original.
+
+This line added on branch 'main'

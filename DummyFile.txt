@@ -2,5 +2,9 @@ This is a dummy file to test GIT operations.
 
 This line is original.
 
-This line added on branch 'main'
-And this line too is added on branch 'main'.
+This line was added on branch 'main'
+And this line too was added on branch 'main'.
+This line however was added in branch-1.
+And this line (two) was also added in branch-1.
+This line too (three) wass from branch-1.
+
